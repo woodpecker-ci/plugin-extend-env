@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.4](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.4) - 2025-03-04
+
+### Misc
+
+- [pre-commit.ci] pre-commit autoupdate [[#94](https://github.com/woodpecker-ci/plugin-extend-env/pull/94)]
+
 ## [0.1.3](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.3) - 2025-02-17
 
 ### 📦️ Dependency
