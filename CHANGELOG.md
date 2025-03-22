@@ -1,9 +1,10 @@
 # Changelog
 
-## [0.1.4](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.4) - 2025-03-15
+## [0.1.4](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.4) - 2025-03-22
 
 ### 📦️ Dependency
 
+- Update pre-commit hook golangci/golangci-lint to v1.64.8 [[#97](https://github.com/woodpecker-ci/plugin-extend-env/pull/97)]
 - Update pre-commit hook golangci/golangci-lint to v1.64.7 [[#96](https://github.com/woodpecker-ci/plugin-extend-env/pull/96)]
 
 ### Misc
