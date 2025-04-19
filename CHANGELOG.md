@@ -4,6 +4,7 @@
 
 ### 📦️ Dependency
 
+- Update woodpeckerci/plugin-ready-release-go Docker tag to v3.2.0 [[#104](https://github.com/woodpecker-ci/plugin-extend-env/pull/104)]
 - Update pre-commit hook golangci/golangci-lint to v2.1.2 [[#103](https://github.com/woodpecker-ci/plugin-extend-env/pull/103)]
 - Update pre-commit hook golangci/golangci-lint to v2.1.1 [[#102](https://github.com/woodpecker-ci/plugin-extend-env/pull/102)]
 - Update pre-commit hook golangci/golangci-lint to v2 [[#100](https://github.com/woodpecker-ci/plugin-extend-env/pull/100)]
