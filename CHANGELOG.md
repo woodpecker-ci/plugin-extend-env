@@ -4,6 +4,7 @@
 
 ### 📦️ Dependency
 
+- Update woodpeckerci/plugin-docker-buildx Docker tag to v6.0.1 [[#108](https://github.com/woodpecker-ci/plugin-extend-env/pull/108)]
 - Update woodpeckerci/plugin-docker-buildx Docker tag to v6 [[#107](https://github.com/woodpecker-ci/plugin-extend-env/pull/107)]
 - Update module codeberg.org/woodpecker-plugins/go-plugin to v1 [[#106](https://github.com/woodpecker-ci/plugin-extend-env/pull/106)]
 - Update pre-commit hook golangci/golangci-lint to v2.1.5 [[#105](https://github.com/woodpecker-ci/plugin-extend-env/pull/105)]
