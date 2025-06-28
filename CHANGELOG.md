@@ -4,6 +4,7 @@
 
 ### 📦️ Dependency
 
+- Update pre-commit hook golangci/golangci-lint to v2.2.0 [[#116](https://github.com/woodpecker-ci/plugin-extend-env/pull/116)]
 - Update module github.com/Masterminds/semver/v3 to v3.4.0 [[#115](https://github.com/woodpecker-ci/plugin-extend-env/pull/115)]
 - Update dependency go to v1.24.4 [[#114](https://github.com/woodpecker-ci/plugin-extend-env/pull/114)]
 - Update pre-commit hook igorshubovych/markdownlint-cli to v0.45.0 [[#112](https://github.com/woodpecker-ci/plugin-extend-env/pull/112)]
