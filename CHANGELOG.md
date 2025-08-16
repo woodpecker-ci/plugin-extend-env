@@ -1,9 +1,10 @@
 # Changelog
 
-## [0.1.4](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.4) - 2025-08-13
+## [0.1.4](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.4) - 2025-08-16
 
 ### 📦️ Dependency
 
+- Update golang Docker tag to v1.25 [[#130](https://github.com/woodpecker-ci/plugin-extend-env/pull/130)]
 - Update dependency go to v1.25.0 [[#129](https://github.com/woodpecker-ci/plugin-extend-env/pull/129)]
 - Update pre-commit hook pre-commit/pre-commit-hooks to v6 [[#128](https://github.com/woodpecker-ci/plugin-extend-env/pull/128)]
 - Update woodpeckerci/plugin-ready-release-go Docker tag to v3.4.0 [[#127](https://github.com/woodpecker-ci/plugin-extend-env/pull/127)]
