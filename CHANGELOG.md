@@ -1,9 +1,10 @@
 # Changelog
 
-## [0.1.4](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.4) - 2025-09-21
+## [0.1.4](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.4) - 2025-09-27
 
 ### 📦️ Dependency
 
+- Update pre-commit hook hadolint/hadolint to v2.14.0 [[#135](https://github.com/woodpecker-ci/plugin-extend-env/pull/135)]
 - Update pre-commit hook golangci/golangci-lint to v2.5.0 [[#134](https://github.com/woodpecker-ci/plugin-extend-env/pull/134)]
 - Update dependency go to v1.25.1 [[#133](https://github.com/woodpecker-ci/plugin-extend-env/pull/133)]
 - Update pre-commit hook golangci/golangci-lint to v2.4.0 [[#131](https://github.com/woodpecker-ci/plugin-extend-env/pull/131)]
