@@ -1,9 +1,10 @@
 # Changelog
 
-## [0.1.4](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.4) - 2025-10-01
+## [0.1.4](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.4) - 2025-10-04
 
 ### 📦️ Dependency
 
+- Update woodpeckerci/plugin-docker-buildx Docker tag to v6.0.3 [[#137](https://github.com/woodpecker-ci/plugin-extend-env/pull/137)]
 - Update module codeberg.org/woodpecker-plugins/go-plugin to v1.0.1 [[#136](https://github.com/woodpecker-ci/plugin-extend-env/pull/136)]
 - Update pre-commit hook hadolint/hadolint to v2.14.0 [[#135](https://github.com/woodpecker-ci/plugin-extend-env/pull/135)]
 - Update pre-commit hook golangci/golangci-lint to v2.5.0 [[#134](https://github.com/woodpecker-ci/plugin-extend-env/pull/134)]
