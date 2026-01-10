@@ -1,5 +1,63 @@
 # Changelog
 
+## [0.1.4](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.4) - 2026-01-10
+
+### 📦️ Dependency
+
+- Update pre-commit non-major [[#152](https://github.com/woodpecker-ci/plugin-extend-env/pull/152)]
+- Update module codeberg.org/woodpecker-plugins/go-plugin to v1.0.2 [[#151](https://github.com/woodpecker-ci/plugin-extend-env/pull/151)]
+- Update pre-commit hook igorshubovych/markdownlint-cli to v0.47.0 [[#149](https://github.com/woodpecker-ci/plugin-extend-env/pull/149)]
+- Update pre-commit hook golangci/golangci-lint to v2.7.2 [[#148](https://github.com/woodpecker-ci/plugin-extend-env/pull/148)]
+- Update pre-commit hook golangci/golangci-lint to v2.7.1 [[#147](https://github.com/woodpecker-ci/plugin-extend-env/pull/147)]
+- Update dependency go to v1.25.5 [[#146](https://github.com/woodpecker-ci/plugin-extend-env/pull/146)]
+- Update pre-commit hook igorshubovych/markdownlint-cli to v0.46.0 [[#145](https://github.com/woodpecker-ci/plugin-extend-env/pull/145)]
+- Update pre-commit hook golangci/golangci-lint to v2.6.2 [[#144](https://github.com/woodpecker-ci/plugin-extend-env/pull/144)]
+- Update pre-commit hook golangci/golangci-lint to v2.6.1 [[#143](https://github.com/woodpecker-ci/plugin-extend-env/pull/143)]
+- Update dependency go to v1.25.4 [[#142](https://github.com/woodpecker-ci/plugin-extend-env/pull/142)]
+- Update dependency go to v1.25.3 [[#140](https://github.com/woodpecker-ci/plugin-extend-env/pull/140)]
+- Update dependency go to v1.25.2 [[#139](https://github.com/woodpecker-ci/plugin-extend-env/pull/139)]
+- Update woodpeckerci/plugin-docker-buildx Docker tag to v6.0.3 [[#137](https://github.com/woodpecker-ci/plugin-extend-env/pull/137)]
+- Update module codeberg.org/woodpecker-plugins/go-plugin to v1.0.1 [[#136](https://github.com/woodpecker-ci/plugin-extend-env/pull/136)]
+- Update pre-commit hook hadolint/hadolint to v2.14.0 [[#135](https://github.com/woodpecker-ci/plugin-extend-env/pull/135)]
+- Update pre-commit hook golangci/golangci-lint to v2.5.0 [[#134](https://github.com/woodpecker-ci/plugin-extend-env/pull/134)]
+- Update dependency go to v1.25.1 [[#133](https://github.com/woodpecker-ci/plugin-extend-env/pull/133)]
+- Update pre-commit hook golangci/golangci-lint to v2.4.0 [[#131](https://github.com/woodpecker-ci/plugin-extend-env/pull/131)]
+- Update golang Docker tag to v1.25 [[#130](https://github.com/woodpecker-ci/plugin-extend-env/pull/130)]
+- Update dependency go to v1.25.0 [[#129](https://github.com/woodpecker-ci/plugin-extend-env/pull/129)]
+- Update pre-commit hook pre-commit/pre-commit-hooks to v6 [[#128](https://github.com/woodpecker-ci/plugin-extend-env/pull/128)]
+- Update woodpeckerci/plugin-ready-release-go Docker tag to v3.4.0 [[#127](https://github.com/woodpecker-ci/plugin-extend-env/pull/127)]
+- Update dependency go to v1.24.6 [[#126](https://github.com/woodpecker-ci/plugin-extend-env/pull/126)]
+- Update pre-commit hook golangci/golangci-lint to v2.3.1 [[#124](https://github.com/woodpecker-ci/plugin-extend-env/pull/124)]
+- Update pre-commit hook golangci/golangci-lint to v2.3.0 [[#123](https://github.com/woodpecker-ci/plugin-extend-env/pull/123)]
+- Update pre-commit hook golangci/golangci-lint to v2.2.2 [[#122](https://github.com/woodpecker-ci/plugin-extend-env/pull/122)]
+- Update dependency go to v1.24.5 [[#121](https://github.com/woodpecker-ci/plugin-extend-env/pull/121)]
+- Update woodpeckerci/plugin-ready-release-go Docker tag to v3.3.0 [[#119](https://github.com/woodpecker-ci/plugin-extend-env/pull/119)]
+- Update woodpeckerci/plugin-docker-buildx Docker tag to v6.0.2 [[#118](https://github.com/woodpecker-ci/plugin-extend-env/pull/118)]
+- Update pre-commit hook golangci/golangci-lint to v2.2.1 [[#117](https://github.com/woodpecker-ci/plugin-extend-env/pull/117)]
+- Update pre-commit hook golangci/golangci-lint to v2.2.0 [[#116](https://github.com/woodpecker-ci/plugin-extend-env/pull/116)]
+- Update module github.com/Masterminds/semver/v3 to v3.4.0 [[#115](https://github.com/woodpecker-ci/plugin-extend-env/pull/115)]
+- Update dependency go to v1.24.4 [[#114](https://github.com/woodpecker-ci/plugin-extend-env/pull/114)]
+- Update pre-commit hook igorshubovych/markdownlint-cli to v0.45.0 [[#112](https://github.com/woodpecker-ci/plugin-extend-env/pull/112)]
+- Update dependency go to v1.24.3 [[#111](https://github.com/woodpecker-ci/plugin-extend-env/pull/111)]
+- Update pre-commit hook golangci/golangci-lint to v2.1.6 [[#109](https://github.com/woodpecker-ci/plugin-extend-env/pull/109)]
+- Update woodpeckerci/plugin-docker-buildx Docker tag to v6.0.1 [[#108](https://github.com/woodpecker-ci/plugin-extend-env/pull/108)]
+- Update woodpeckerci/plugin-docker-buildx Docker tag to v6 [[#107](https://github.com/woodpecker-ci/plugin-extend-env/pull/107)]
+- Update module codeberg.org/woodpecker-plugins/go-plugin to v1 [[#106](https://github.com/woodpecker-ci/plugin-extend-env/pull/106)]
+- Update pre-commit hook golangci/golangci-lint to v2.1.5 [[#105](https://github.com/woodpecker-ci/plugin-extend-env/pull/105)]
+- Update woodpeckerci/plugin-ready-release-go Docker tag to v3.2.0 [[#104](https://github.com/woodpecker-ci/plugin-extend-env/pull/104)]
+- Update pre-commit hook golangci/golangci-lint to v2.1.2 [[#103](https://github.com/woodpecker-ci/plugin-extend-env/pull/103)]
+- Update pre-commit hook golangci/golangci-lint to v2.1.1 [[#102](https://github.com/woodpecker-ci/plugin-extend-env/pull/102)]
+- Update pre-commit hook golangci/golangci-lint to v2 [[#100](https://github.com/woodpecker-ci/plugin-extend-env/pull/100)]
+- Update woodpeckerci/plugin-ready-release-go Docker tag to v3.1.4 [[#99](https://github.com/woodpecker-ci/plugin-extend-env/pull/99)]
+- Update woodpeckerci/plugin-docker-buildx Docker tag to v5.2.2 [[#98](https://github.com/woodpecker-ci/plugin-extend-env/pull/98)]
+- Update pre-commit hook golangci/golangci-lint to v1.64.8 [[#97](https://github.com/woodpecker-ci/plugin-extend-env/pull/97)]
+- Update pre-commit hook golangci/golangci-lint to v1.64.7 [[#96](https://github.com/woodpecker-ci/plugin-extend-env/pull/96)]
+
+### Misc
+
+- [pre-commit.ci] pre-commit autoupdate [[#141](https://github.com/woodpecker-ci/plugin-extend-env/pull/141)]
+- [pre-commit.ci] pre-commit autoupdate [[#94](https://github.com/woodpecker-ci/plugin-extend-env/pull/94)]
+
 ## [0.1.3](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.3) - 2025-02-17
 
 ### 📦️ Dependency
