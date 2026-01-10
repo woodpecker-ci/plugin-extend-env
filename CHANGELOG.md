@@ -10,6 +10,10 @@
 
 - Remove 'plugin' from plugin name in docs.md [[#153](https://github.com/woodpecker-ci/plugin-extend-env/pull/153)]
 
+### 📦️ Dependency
+
+- Update woodpeckerci/plugin-docker-buildx Docker tag to v6.0.4 [[#154](https://github.com/woodpecker-ci/plugin-extend-env/pull/154)]
+
 ## [0.1.4](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.4) - 2026-01-10
 
 ### 📦️ Dependency
