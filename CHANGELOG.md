@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.1.5](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.5) - 2026-01-10
+
+### ❤️ Thanks to all contributors! ❤️
+
+@6543
+
+### 📚 Documentation
+
+- Remove 'plugin' from plugin name in docs.md [[#153](https://github.com/woodpecker-ci/plugin-extend-env/pull/153)]
+
 ## [0.1.4](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.4) - 2026-01-10
 
 ### 📦️ Dependency
