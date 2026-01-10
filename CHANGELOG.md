@@ -12,6 +12,7 @@
 
 ### 📦️ Dependency
 
+- Update pre-commit hook mrtazz/checkmake to v0.3.2 [[#157](https://github.com/woodpecker-ci/plugin-extend-env/pull/157)]
 - Update woodpeckerci/plugin-ready-release-go Docker tag to v3.4.1 [[#156](https://github.com/woodpecker-ci/plugin-extend-env/pull/156)]
 - Update woodpeckerci/plugin-docker-buildx Docker tag to v6.0.4 [[#154](https://github.com/woodpecker-ci/plugin-extend-env/pull/154)]
 
