@@ -1,9 +1,10 @@
 # Changelog
 
-## [0.1.4](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.4) - 2026-01-09
+## [0.1.4](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.4) - 2026-01-10
 
 ### 📦️ Dependency
 
+- Update pre-commit non-major [[#152](https://github.com/woodpecker-ci/plugin-extend-env/pull/152)]
 - Update module codeberg.org/woodpecker-plugins/go-plugin to v1.0.2 [[#151](https://github.com/woodpecker-ci/plugin-extend-env/pull/151)]
 - Update pre-commit hook igorshubovych/markdownlint-cli to v0.47.0 [[#149](https://github.com/woodpecker-ci/plugin-extend-env/pull/149)]
 - Update pre-commit hook golangci/golangci-lint to v2.7.2 [[#148](https://github.com/woodpecker-ci/plugin-extend-env/pull/148)]
