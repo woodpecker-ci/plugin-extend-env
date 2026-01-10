@@ -12,6 +12,7 @@
 
 ### 📦️ Dependency
 
+- Update woodpeckerci/plugin-ready-release-go Docker tag to v3.4.1 [[#156](https://github.com/woodpecker-ci/plugin-extend-env/pull/156)]
 - Update woodpeckerci/plugin-docker-buildx Docker tag to v6.0.4 [[#154](https://github.com/woodpecker-ci/plugin-extend-env/pull/154)]
 
 ## [0.1.4](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.4) - 2026-01-10
