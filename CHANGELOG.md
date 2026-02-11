@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.1.5](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.5) - 2026-02-05
+## [0.1.5](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.5) - 2026-02-11
 
 ### ❤️ Thanks to all contributors! ❤️
 
@@ -12,6 +12,7 @@
 
 ### 📦️ Dependency
 
+- Update dependency go to v1.26.0 [[#160](https://github.com/woodpecker-ci/plugin-extend-env/pull/160)]
 - Update dependency go to v1.25.7 [[#159](https://github.com/woodpecker-ci/plugin-extend-env/pull/159)]
 - Update dependency go to v1.25.6 [[#158](https://github.com/woodpecker-ci/plugin-extend-env/pull/158)]
 - Update pre-commit hook mrtazz/checkmake to v0.3.2 [[#157](https://github.com/woodpecker-ci/plugin-extend-env/pull/157)]
