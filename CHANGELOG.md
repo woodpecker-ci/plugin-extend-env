@@ -12,6 +12,7 @@
 
 ### 📦️ Dependency
 
+- Update golang Docker tag to v1.26 [[#161](https://github.com/woodpecker-ci/plugin-extend-env/pull/161)]
 - Update pre-commit hook golangci/golangci-lint to v2.9.0 [[#162](https://github.com/woodpecker-ci/plugin-extend-env/pull/162)]
 - Update dependency go to v1.26.0 [[#160](https://github.com/woodpecker-ci/plugin-extend-env/pull/160)]
 - Update dependency go to v1.25.7 [[#159](https://github.com/woodpecker-ci/plugin-extend-env/pull/159)]
