@@ -2,7 +2,7 @@ module github.com/woodpecker-ci/plugin-extend-env
 
 go 1.25.0
 
-toolchain go1.26.1
+toolchain go1.26.2
 
 require (
 	codeberg.org/woodpecker-plugins/go-plugin v1.1.0
