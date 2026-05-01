@@ -6,7 +6,7 @@ toolchain go1.26.2
 
 require (
 	codeberg.org/woodpecker-plugins/go-plugin v1.1.0
-	github.com/Masterminds/semver/v3 v3.4.0
+	github.com/Masterminds/semver/v3 v3.5.0
 	github.com/joho/godotenv v1.5.1
 )
 
