@@ -1,5 +1,44 @@
 # Changelog
 
+## [0.1.5](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.5) - 2026-06-03
+
+### ❤️ Thanks to all contributors! ❤️
+
+@6543
+
+### 📚 Documentation
+
+- Remove 'plugin' from plugin name in docs.md [[#153](https://github.com/woodpecker-ci/plugin-extend-env/pull/153)]
+
+### 📦️ Dependency
+
+- Update golang deps non-major to v1.26.4 [[#181](https://github.com/woodpecker-ci/plugin-extend-env/pull/181)]
+- Update module codeberg.org/woodpecker-plugins/go-plugin to v1.2.0 [[#180](https://github.com/woodpecker-ci/plugin-extend-env/pull/180)]
+- Update pre-commit hook golangci/golangci-lint to v2.12.2 [[#179](https://github.com/woodpecker-ci/plugin-extend-env/pull/179)]
+- Update go toolchain directive to v1.26.3 [[#178](https://github.com/woodpecker-ci/plugin-extend-env/pull/178)]
+- Update woodpeckerci/plugin-docker-buildx Docker tag to v6.1.0 [[#177](https://github.com/woodpecker-ci/plugin-extend-env/pull/177)]
+- Update pre-commit hook golangci/golangci-lint to v2.12.1 [[#176](https://github.com/woodpecker-ci/plugin-extend-env/pull/176)]
+- Update module github.com/Masterminds/semver/v3 to v3.5.0 [[#175](https://github.com/woodpecker-ci/plugin-extend-env/pull/175)]
+- Update woodpeckerci/plugin-ready-release-go Docker tag to v4.1.1 [[#174](https://github.com/woodpecker-ci/plugin-extend-env/pull/174)]
+- Update dependency go to v1.26.2 [[#173](https://github.com/woodpecker-ci/plugin-extend-env/pull/173)]
+- Update module codeberg.org/woodpecker-plugins/go-plugin to v1.1.0 [[#171](https://github.com/woodpecker-ci/plugin-extend-env/pull/171)]
+- Update woodpeckerci/plugin-ready-release-go Docker tag to v4.1.0 [[#170](https://github.com/woodpecker-ci/plugin-extend-env/pull/170)]
+- Update pre-commit hook golangci/golangci-lint to v2.11.4 [[#169](https://github.com/woodpecker-ci/plugin-extend-env/pull/169)]
+- Update pre-commit hook golangci/golangci-lint to v2.11.3 [[#168](https://github.com/woodpecker-ci/plugin-extend-env/pull/168)]
+- Update module codeberg.org/woodpecker-plugins/go-plugin to v1.0.3 [[#167](https://github.com/woodpecker-ci/plugin-extend-env/pull/167)]
+- Update pre-commit non-major [[#166](https://github.com/woodpecker-ci/plugin-extend-env/pull/166)]
+- Update dependency go to v1.26.1 [[#165](https://github.com/woodpecker-ci/plugin-extend-env/pull/165)]
+- Update woodpeckerci/plugin-ready-release-go Docker tag to v4 [[#164](https://github.com/woodpecker-ci/plugin-extend-env/pull/164)]
+- Update pre-commit hook golangci/golangci-lint to v2.10.1 [[#163](https://github.com/woodpecker-ci/plugin-extend-env/pull/163)]
+- Update golang Docker tag to v1.26 [[#161](https://github.com/woodpecker-ci/plugin-extend-env/pull/161)]
+- Update pre-commit hook golangci/golangci-lint to v2.9.0 [[#162](https://github.com/woodpecker-ci/plugin-extend-env/pull/162)]
+- Update dependency go to v1.26.0 [[#160](https://github.com/woodpecker-ci/plugin-extend-env/pull/160)]
+- Update dependency go to v1.25.7 [[#159](https://github.com/woodpecker-ci/plugin-extend-env/pull/159)]
+- Update dependency go to v1.25.6 [[#158](https://github.com/woodpecker-ci/plugin-extend-env/pull/158)]
+- Update pre-commit hook mrtazz/checkmake to v0.3.2 [[#157](https://github.com/woodpecker-ci/plugin-extend-env/pull/157)]
+- Update woodpeckerci/plugin-ready-release-go Docker tag to v3.4.1 [[#156](https://github.com/woodpecker-ci/plugin-extend-env/pull/156)]
+- Update woodpeckerci/plugin-docker-buildx Docker tag to v6.0.4 [[#154](https://github.com/woodpecker-ci/plugin-extend-env/pull/154)]
+
 ## [0.1.4](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.4) - 2026-01-10
 
 ### 📦️ Dependency
