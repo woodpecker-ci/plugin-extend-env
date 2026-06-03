@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.1.5](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.5) - 2026-05-31
+## [0.1.5](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.5) - 2026-06-03
 
 ### ❤️ Thanks to all contributors! ❤️
 
@@ -12,6 +12,7 @@
 
 ### 📦️ Dependency
 
+- Update golang deps non-major to v1.26.4 [[#181](https://github.com/woodpecker-ci/plugin-extend-env/pull/181)]
 - Update module codeberg.org/woodpecker-plugins/go-plugin to v1.2.0 [[#180](https://github.com/woodpecker-ci/plugin-extend-env/pull/180)]
 - Update pre-commit hook golangci/golangci-lint to v2.12.2 [[#179](https://github.com/woodpecker-ci/plugin-extend-env/pull/179)]
 - Update go toolchain directive to v1.26.3 [[#178](https://github.com/woodpecker-ci/plugin-extend-env/pull/178)]
