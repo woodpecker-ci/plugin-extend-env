@@ -12,6 +12,7 @@
 
 ### 📦️ Dependency
 
+- Update pre-commit hook igorshubovych/markdownlint-cli to v0.49.1 [[#186](https://github.com/woodpecker-ci/plugin-extend-env/pull/186)]
 - Update woodpeckerci/plugin-ready-release-go Docker tag to v4.1.2 [[#187](https://github.com/woodpecker-ci/plugin-extend-env/pull/187)]
 - Update woodpeckerci/plugin-docker-buildx Docker tag to v6.1.1 [[#185](https://github.com/woodpecker-ci/plugin-extend-env/pull/185)]
 - Update go toolchain directive to v1.26.5 [[#184](https://github.com/woodpecker-ci/plugin-extend-env/pull/184)]
