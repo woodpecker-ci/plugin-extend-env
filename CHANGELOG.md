@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.1.5](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.5) - 2026-08-15
+## [0.1.5](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.5) - 2026-08-20
 
 ### ❤️ Thanks to all contributors! ❤️
 
@@ -12,6 +12,7 @@
 
 ### 📦️ Dependency
 
+- Update go toolchain directive to v1.27.0 [[#190](https://github.com/woodpecker-ci/plugin-extend-env/pull/190)]
 - Update go toolchain directive to v1.26.6 [[#189](https://github.com/woodpecker-ci/plugin-extend-env/pull/189)]
 - Update pre-commit hook hadolint/hadolint to v2.15.1 [[#188](https://github.com/woodpecker-ci/plugin-extend-env/pull/188)]
 - Update pre-commit hook igorshubovych/markdownlint-cli to v0.49.1 [[#186](https://github.com/woodpecker-ci/plugin-extend-env/pull/186)]
