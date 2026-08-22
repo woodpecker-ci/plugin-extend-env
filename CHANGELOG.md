@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.6) - 2026-08-22
+
+### 📦️ Dependency
+
+- Update pre-commit hook golangci/golangci-lint to v2.13.1 [[#192](https://github.com/woodpecker-ci/plugin-extend-env/pull/192)]
+- Update golang Docker tag to v1.27 [[#191](https://github.com/woodpecker-ci/plugin-extend-env/pull/191)]
+
 ## [0.1.5](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.5) - 2026-08-20
 
 ### ❤️ Thanks to all contributors! ❤️
