@@ -6,7 +6,7 @@ when:
     branch: ${CI_REPO_DEFAULT_BRANCH}
 
 variables:
-  - &golang 'golang:1.26'
+  - &golang 'golang:1.27'
 
 steps:
   vendor:
