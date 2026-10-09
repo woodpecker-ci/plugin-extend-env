@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.7](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.7) - 2026-10-09
+
+### 📦️ Dependency
+
+- Update golang deps non-major [[#200](https://github.com/woodpecker-ci/plugin-extend-env/pull/200)]
+
 ## [0.1.6](https://github.com/woodpecker-ci/plugin-extend-env/releases/tag/0.1.6) - 2026-09-26
 
 ### 📦️ Dependency
