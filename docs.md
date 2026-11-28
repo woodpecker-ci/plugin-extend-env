@@ -22,12 +22,12 @@ steps:
 
 The plugin does nothing unless the pipeline is running for a tag. It then writes the following variables to `.env`:
 
-| Variable                          | Description                                                          |
-| --------------------------------- | -------------------------------------------------------------------- |
-| `CI_COMMIT_TAG_IS_SEMVER`         | `true` if the tag is a valid semantic version, otherwise `false`     |
-| `CI_COMMIT_TAG_SEMVER`            | The normalized semantic version (only if the tag is a semver)        |
-| `CI_COMMIT_TAG_SEMVER_MAJOR`      | The major version number (only if the tag is a semver)               |
-| `CI_COMMIT_TAG_SEMVER_MINOR`      | The minor version number (only if the tag is a semver)               |
-| `CI_COMMIT_TAG_SEMVER_PATCH`      | The patch version number (only if the tag is a semver)               |
-| `CI_COMMIT_TAG_SEMVER_PRERELEASE` | The pre-release part, e.g. `rc.1` (only if the version has one)      |
-| `CI_COMMIT_TAG_IS_PRERELEASE`     | `true` if the version has a pre-release part (not set otherwise)     |
+| Variable                          | Description                                                      |
+| --------------------------------- | ---------------------------------------------------------------- |
+| `CI_COMMIT_TAG_IS_SEMVER`         | `true` if the tag is a valid semantic version, otherwise `false` |
+| `CI_COMMIT_TAG_SEMVER`            | The normalized semantic version (only if the tag is a semver)    |
+| `CI_COMMIT_TAG_SEMVER_MAJOR`      | The major version number (only if the tag is a semver)           |
+| `CI_COMMIT_TAG_SEMVER_MINOR`      | The minor version number (only if the tag is a semver)           |
+| `CI_COMMIT_TAG_SEMVER_PATCH`      | The patch version number (only if the tag is a semver)           |
+| `CI_COMMIT_TAG_SEMVER_PRERELEASE` | The pre-release part, e.g. `rc.1` (only if the version has one)  |
+| `CI_COMMIT_TAG_IS_PRERELEASE`     | `true` if the version has a pre-release part (not set otherwise) |
